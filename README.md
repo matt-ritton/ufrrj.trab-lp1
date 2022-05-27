@@ -21,4 +21,4 @@ Abra o projeto na IDE de sua escolha e execute.
 
 ## Contribuição
 
-O presente trabalho foi desenvolvidos pelo aluno Matheus Nunes Ritton.
+O presente trabalho foi desenvolvido pelo aluno Matheus Nunes Ritton.
