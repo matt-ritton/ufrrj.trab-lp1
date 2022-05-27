@@ -11,7 +11,7 @@ O projeto consistia em uma leitura de um arquivo de texto, indentificando a form
 
 Clone o repositório
 
-    git clone https://github.com/matheusritton/ufrrj.trab-lp1.git
+    git clone https://github.com/matt-ritton/ufrrj.trab-lp1.git
 
 Adicione um arquivo de texto com um texto a ser lido na pasta raiz do programa.
 
